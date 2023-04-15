@@ -1,6 +1,6 @@
 <div>
   <h1> 💫IroniaTheMaster🌌 </h1>
-  <h2> Programador Python, C#, C++ e Arduino </h2>
+  <h2> Programador Python, C#, C++, Java e Arduino </h2>
 </div>
 <div>
   <p> Olá, meu nome é IroniaTheMaster e sou um programador apaixonado por tecnologia. Eu trabalho principalmente com Python, C# e C++, mas também gosto de me aventurar em projetos de eletrônica com Arduino. </p>
