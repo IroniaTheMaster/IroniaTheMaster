@@ -7,6 +7,8 @@
   <p> Um dos meus projetos favoritos de Python foi criar um aimbot utilizando Arduino para melhorar a precisão do meu gameplay. </p>
 </div>
 <div>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px"/>
